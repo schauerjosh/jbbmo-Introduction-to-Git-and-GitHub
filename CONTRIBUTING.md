@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing to Git Hub Final Project
 
 Thank you for considering contributing to this project! Please take a moment to review these guidelines.
 
